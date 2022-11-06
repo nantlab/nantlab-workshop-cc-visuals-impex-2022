@@ -13,8 +13,9 @@
 * midi: https://editor.p5js.org/thomasgeissl/sketches/i-HIg1Tzq
 * mqtt
 
+## further links
 p5js collection: https://editor.p5js.org/thomasgeissl/collections/1aVAFOdmq
 
-daniel shiffman, coding train, the nature of code
+p5js tutorials: daniel shiffman, coding train, the nature of code
 * https://www.youtube.com/watch?v=70MQ-FugwbI
 * https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
